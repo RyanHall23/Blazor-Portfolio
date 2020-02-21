@@ -6072,11 +6072,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ryan.hall\\Documents\\VS Projects\\Portfolio\\Portfolio\\Portfolio.csproj",
+      "projectUniqueName": "C:\\Users\\ryan.hall\\Documents\\Github Repository\\Portfolio\\Portfolio\\Portfolio.csproj",
       "projectName": "Portfolio",
-      "projectPath": "C:\\Users\\ryan.hall\\Documents\\VS Projects\\Portfolio\\Portfolio\\Portfolio.csproj",
+      "projectPath": "C:\\Users\\ryan.hall\\Documents\\Github Repository\\Portfolio\\Portfolio\\Portfolio.csproj",
       "packagesPath": "C:\\Users\\ryan.hall\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ryan.hall\\Documents\\VS Projects\\Portfolio\\Portfolio\\obj\\",
+      "outputPath": "C:\\Users\\ryan.hall\\Documents\\Github Repository\\Portfolio\\Portfolio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ryan.hall\\AppData\\Roaming\\NuGet\\NuGet.Config",
